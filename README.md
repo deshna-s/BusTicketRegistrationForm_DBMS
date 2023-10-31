@@ -6,7 +6,7 @@ Team Members- Anisha Gandhi, Dhir Thacker, Deshna Shah
 Click Here
 
 
-Project Descrition:
+Project 
 
 Overview: 
 The project aims to create a decentralized digital educational platform that shifts the focus from the educational institution to the professor, offering students worldwide access to diverse, high-quality courses. This platform seeks to democratize education, reduce tuition costs, and elevate the overall quality of learning. It emphasizes individual accountability in improving education, fostering a culture of lifelong learning, and providing valuable feedback.
